@@ -1,6 +1,8 @@
-# n8n-demo
+# Smart Gmail Agent
 
 ## AI agent developed using n8n
+
+This n8n workflow routes incoming chat messages using an AI agent and sends appropriate emails based on the context of the message. It leverages Google Gemini, Gmail, and external API tools to handle automated decision-making and communication.
 
 
 
